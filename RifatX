@@ -90,7 +90,7 @@ print  """
 
 """
 
-jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
+jalan("\033[1;97m•◈•───────•◈     PROUD TO BE A BANGLADESHI HACKER   •◈•───────•◈•")  
 
 
 jalan("\033[1;96m•◈•     ########  #### ########    ###    ######## ##     ## ")
